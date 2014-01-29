@@ -1,0 +1,86 @@
+body
+{
+  background-color: #7C7E79;
+  font-family: 'Fauna One', serif;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.content
+{
+  position: relative;
+  display: block;
+  width: 75%;
+  height: 75%;
+  //background-color: red;
+  left: 12.5%;
+  top: 12.5%;
+}
+
+.contentHeader
+{
+  height: 25%;
+  color: #262625;
+  //background-color: blue;
+  text-align: center;
+}
+
+.contentHeaderHeading
+{
+  position: relative;
+  width: 100%;
+  height: 75%;
+  top: 12.5%;
+}
+
+.contentHeaderHeadingName
+{
+  height: 70%;
+  //background-color: orange;
+  font-size: 62px;
+}
+
+.contentHeaderHeadingSubtext
+{
+  //background-color: pink;
+  font-size: 22px;
+  height: 30%;
+}
+
+.contentBody
+{
+  height: 75%;
+  //background-color: yellow;
+}
+
+.contentBodyWorks
+{
+  position: relative;
+  top: 12.5%;
+  left: 2.5%;
+  //background-color: green;
+  height: 75%;
+  width: 95%;
+}
+
+.contentBodyWorksWork
+{
+  //background-color: white;
+  text-align: center;
+  display: inline-block;
+  margin-right: -5px;
+  height: 100%;
+}
+
+.contentBodyWorksWorkTitle
+{
+  //background-color: purple;
+  height: 20%;
+}
+
+.contentBodyWorksWorkBody
+{
+  //background-color: lightblue;
+  height: 80%;
+}
